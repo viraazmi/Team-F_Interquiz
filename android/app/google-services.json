@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43018022643",
+    "project_id": "lalamu-4ff90",
+    "storage_bucket": "lalamu-4ff90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43018022643:android:029e01db881fab10d71186",
+        "android_client_info": {
+          "package_name": "com.example.lalamu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jFWkQn1iktiNVXE5UZ7J6xmeKnlM9f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43018022643:android:6f8dba9855e3dcd1d71186",
+        "android_client_info": {
+          "package_name": "com.example.lalamu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jFWkQn1iktiNVXE5UZ7J6xmeKnlM9f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
