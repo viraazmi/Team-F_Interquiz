@@ -62,7 +62,7 @@ class _AuthScreenState extends State<AuthScreen> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
-                'LaLaMu',
+                'InterQuiz',
                 style: TextStyle(fontSize: 50, fontWeight: FontWeight.bold, color: Colors.white, fontFamily: 'Arial'),
               ),
               const SizedBox(height: 40),

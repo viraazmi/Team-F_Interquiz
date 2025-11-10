@@ -1,6 +1,6 @@
 name: lalamu_app
-description: "Aplikasi latian soal pendidikan."
-publish_to: 'none' 
+description: "Aplikasi latihan soal pendidikan."
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
@@ -9,10 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: ^2.24.2
-  firebase_auth: ^4.16.0
-  cloud_firestore: ^4.14.0
   
+  # Versi-versi yang terbukti stabil
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -20,3 +22,16 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/book.png
+    - assets/catatan.png
+    - assets/centang.png
+    - assets/congratulation.png
+    - assets/home.png
+    - assets/jam.png
+    - assets/light-bulb.png
+    - assets/profil.png
+    - assets/ranking.png
+    - assets/silang.png
+    - assets/spinner.png
+    - assets/tombolkembali.png

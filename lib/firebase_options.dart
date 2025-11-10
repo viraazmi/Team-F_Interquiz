@@ -42,12 +42,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCOerSHByOUSmTaC149g6PH4M3i9aCEppE',
-    appId: '1:43018022643:web:26255344ec0723d2d71186',
+    appId: '1:43018022643:web:099d459834d97c38d71186',
     messagingSenderId: '43018022643',
     projectId: 'lalamu-4ff90',
     authDomain: 'lalamu-4ff90.firebaseapp.com',
     storageBucket: 'lalamu-4ff90.firebasestorage.app',
-    measurementId: 'G-NYG722LJRC',
+    measurementId: 'G-8C53BQSQF8',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
